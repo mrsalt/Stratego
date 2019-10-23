@@ -1,0 +1,31 @@
+// BitmapRenderer.h : main header file for the PROJECT_NAME application
+//
+
+#pragma once
+
+#ifndef __AFXWIN_H__
+	#error include 'stdafx.h' before including this file for PCH
+#endif
+
+#include "resource.h"		// main symbols
+
+
+// CBitmapRendererApp:
+// See BitmapRenderer.cpp for the implementation of this class
+//
+
+class CBitmapRendererApp : public CWinApp
+{
+public:
+	CBitmapRendererApp();
+
+// Overrides
+	public:
+	virtual BOOL InitInstance();
+
+// Implementation
+
+	DECLARE_MESSAGE_MAP()
+};
+
+extern CBitmapRendererApp theApp;

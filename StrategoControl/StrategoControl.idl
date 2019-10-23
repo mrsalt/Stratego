@@ -1,0 +1,68 @@
+// StrategoControl.idl : type library source for ActiveX Control project.
+
+// This file will be processed by the MIDL compiler tool to
+// produce the type library (StrategoControl.tlb) that will become a resource in
+// StrategoControl.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(EC11A29C-D3E0-4BC9-A72F-BB6C229468FF), version(1.0),
+  helpfile("StrategoControl.hlp"),
+  helpstring("StrategoControl ActiveX Control module"),
+  control ]
+library StrategoControlLib
+{
+	importlib(STDOLE_TLB);
+
+	//  Primary dispatch interface for CStrategoControlCtrl
+
+	[ uuid(A1A0215D-3505-4748-AE90-C231081B5B93),
+	  helpstring("Dispatch interface for Stratego Classic Control")]
+	dispinterface _DStrategoControl
+	{
+		properties:
+		[id(1), helpstring("property ShowPiecesPanel")] SHORT ShowPiecesPanel;
+		[id(2), helpstring("property BoardState")] SHORT BoardState;
+		[id(3), helpstring("property ShowAllPieces")] LONG ShowAllPieces;
+		[id(4), helpstring("property AllowScrolling")] LONG AllowScrolling;
+		[id(5), helpstring("property CurrentPlayer")] LONG CurrentPlayer;
+		[id(6), helpstring("property PlaceUnitsAtStart")] LONG PlaceUnitsAtStart;
+methods:
+		[id(7), helpstring("method SetPlayerData")] LONG SetPlayerData(SHORT PlayerID, SHORT Type, SHORT Color);
+		[id(8), helpstring("method SetStateAndPlayer")] LONG SetStateAndPlayer(SHORT State, SHORT PlayerID);
+		[id(9), helpstring("method PlacePiece")] LONG PlacePiece(SHORT PlayerID, SHORT x, SHORT y, SHORT Type);
+		[id(10), helpstring("method MovePiece")] LONG MovePiece(SHORT x1, SHORT y1, SHORT x2, SHORT y2);
+		[id(11), helpstring("method RemovePiece")] LONG RemovePiece(SHORT x, SHORT y);
+		[id(12), helpstring("method RestartGame")] void RestartGame(void);
+	};
+
+	//  Event dispatch interface for CStrategoControlCtrl
+
+	[ uuid(DA56CC2C-8811-4831-9222-29333DF90474),
+	  helpstring("Event interface for Stratego Classic Control") ]
+	dispinterface _DStrategoControlEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+		[id(1)] void SetupDone(void);
+		[id(2)] void PiecePlaced(SHORT PlayerID, SHORT x1, SHORT y1, SHORT Type);
+		[id(3)] void GameOver(SHORT PlayerID, SHORT Reason);
+		[id(4)] void PieceMoved(SHORT PlayerID, SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT Type);
+		[id(5)] void PieceRemoved(SHORT PlayerID, SHORT x, SHORT y, SHORT Type);
+		[id(6)] void BattleOccured(SHORT AttackerPiece, SHORT DefenderPiece, SHORT BattleResult);
+	};
+
+	//  Class information for CStrategoControlCtrl
+
+	[ uuid(9CCB537E-5273-43CB-BEA9-75D9E716AA46),
+	  helpstring("Stratego Classic Control"), control ]
+	coclass StrategoControl
+	{
+		[default] dispinterface _DStrategoControl;
+		[default, source] dispinterface _DStrategoControlEvents;
+	};
+
+};

@@ -1,0 +1,184 @@
+*ptrPixel =      RGB(	m_pixels[index].red + percent * m_pixelDiffs[index].red,
+									m_pixels[index].green + percent * m_pixelDiffs[index].green,
+									m_pixels[index].blue + percent * m_pixelDiffs[index].blue
+				                   );
+
+blt: 0.151601 seconds 
+render: 2.72306 seconds 
+2.90301 seconds 
+blt: 0.151722 seconds 
+render: 2.70397 seconds 
+2.88399 seconds 
+blt: 0.151138 seconds 
+render: 2.70521 seconds 
+2.8845 seconds 
+blt: 0.15053 seconds 
+render: 2.71305 seconds 
+2.89195 seconds 
+				                   
+
+*ptrPixel =      RGB(	m_pixels[index].red + m_index * m_pixelDiffs[index].red / 100,
+									m_pixels[index].green + m_index * m_pixelDiffs[index].green / 100,
+									m_pixels[index].blue + m_index * m_pixelDiffs[index].blue / 100
+				                   );
+				                   
+blt: 0.158448 seconds 
+render: 1.41541 seconds 
+1.58933 seconds 
+blt: 0.150562 seconds 
+render: 1.40644 seconds 
+1.57336 seconds 
+blt: 0.149595 seconds 
+render: 1.40473 seconds 
+1.56975 seconds 
+blt: 0.151187 seconds 
+render: 1.40294 seconds 
+1.56974 seconds 
+blt: 0.151478 seconds 
+render: 1.40299 seconds 
+1.56974 seconds 
+blt: 0.15133 seconds 
+render: 1.41455 seconds 
+1.58121 seconds 
+
+:) Big performance improvement
+				                
+				                
+blt: 0.154345 seconds 
+render: 1.3002 seconds 
+1.47678 seconds 
+blt: 0.152855 seconds 
+render: 1.28616 seconds 
+1.45336 seconds 
+blt: 0.152637 seconds 
+render: 1.2817 seconds 
+1.44855 seconds 
+blt: 0.153544 seconds 
+render: 1.28165 seconds 
+1.44942 seconds 
+blt: 0.153159 seconds 
+render: 1.28026 seconds 
+1.44756 seconds 
+blt: 0.155592 seconds 
+render: 1.28461 seconds 
+1.45447 seconds 
+blt: 0.153487 seconds 
+render: 1.28752 seconds 
+1.45531 seconds 			
+
+:) Shaved off 1/10th of a second
+
+
+blt: 0.156817 seconds 
+render: 1.3161 seconds 
+1.48752 seconds 
+blt: 0.153386 seconds 
+render: 1.29532 seconds 
+1.46322 seconds 
+blt: 0.152788 seconds 
+render: 1.29359 seconds 
+1.46067 seconds 
+blt: 0.154516 seconds 
+render: 1.30136 seconds 
+1.47049 seconds 
+blt: 0.153526 seconds 
+render: 1.2968 seconds 
+1.46523 seconds   
+
+- No change
+
+blt: 0.155132 seconds 
+render: 1.26182 seconds 
+1.43102 seconds 
+blt: 0.150934 seconds 
+render: 1.24697 seconds 
+1.4117 seconds 
+blt: 0.151448 seconds 
+render: 1.24308 seconds 
+1.40843 seconds 
+blt: 0.151178 seconds 
+render: 1.24432 seconds 
+1.40931 seconds 
+blt: 0.152122 seconds 
+render: 1.24664 seconds 
+1.41264 seconds                  				                   
+
+Shaved off 1/20th 
+
+
+blt: 0.16491 seconds 
+render: 0.836976 seconds 
+1.0117 seconds 
+blt: 0.153538 seconds 
+render: 0.820829 seconds 
+0.984025 seconds 
+blt: 0.153533 seconds 
+render: 0.820568 seconds 
+0.983788 seconds 
+blt: 0.15362 seconds 
+render: 0.823155 seconds 
+0.986283 seconds 
+blt: 0.153399 seconds 
+render: 0.824368 seconds 
+0.987289 seconds 
+blt: 0.15341 seconds 
+render: 0.824048 seconds 
+0.987043 seconds 
+blt: 0.152946 seconds 
+render: 0.822915 seconds 
+0.985425 seconds 
+blt: 0.153666 seconds 
+render: 0.823995 seconds 
+0.987205 seconds 
+
+Moved to release mode - shaved off .45 seconds
+
+blt: 0.156715 seconds 
+render: 0.788532 seconds 
+0.954562 seconds 
+blt: 0.152783 seconds 
+render: 0.762588 seconds 
+0.92528 seconds 
+blt: 0.152619 seconds 
+render: 0.757462 seconds 
+0.919132 seconds 
+blt: 0.153985 seconds 
+render: 0.761498 seconds 
+0.924543 seconds 
+blt: 0.152841 seconds 
+render: 0.763349 seconds 
+0.925182 seconds 
+blt: 0.152242 seconds 
+render: 0.761389 seconds 
+0.92311 seconds 
+blt: 0.15377 seconds 
+render: 0.762499 seconds 
+0.925265 seconds 
+blt: 0.152987 seconds 
+render: 0.766657 seconds 
+0.928753 seconds 
+blt: 0.152871 seconds 
+render: 0.763662 seconds 
+0.925492 seconds 
+
+..went back to old code - it does better in release, and it's more readable
+
+blt: 0.165893 seconds 
+render: 0.780014 seconds 
+0.955357 seconds 
+blt: 0.162972 seconds 
+render: 0.75154 seconds 
+0.92342 seconds 
+blt: 0.161529 seconds 
+render: 0.748095 seconds 
+0.918757 seconds 
+blt: 0.162454 seconds 
+render: 0.751787 seconds 
+0.923255 seconds 
+blt: 0.162731 seconds 
+render: 0.750127 seconds 
+0.921738 seconds 
+blt: 0.161767 seconds 
+render: 0.753897 seconds 
+0.924695 seconds 
+

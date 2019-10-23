@@ -1,0 +1,1788 @@
+"DeployProject"
+{
+"VSVersion" = "3:700"
+"ProjectType" = "8:{5443560c-dbb4-11d2-8724-00a0c9a8b90c}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:StrategoInstaller"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"UILanguageId" = "3:1033"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_0AFEC63F725A5CDC4FF8E55225BF0979"
+        "OwnerKey" = "8:_F5C19F12F2A44EADB648816484BA13BC"
+        "MsmSig" = "8:axinterop.strategocontrollibc:\\source code\\my projects\\stratego\\stratego.net\\obj\\axinterop.strategocontrollib.dll"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1101473EE93447F29FFA851171C021F7"
+        "OwnerKey" = "8:_7C993538806A5AF7BD0630403A597977"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1101473EE93447F29FFA851171C021F7"
+        "OwnerKey" = "8:_F5C19F12F2A44EADB648816484BA13BC"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1101473EE93447F29FFA851171C021F7"
+        "OwnerKey" = "8:_0AFEC63F725A5CDC4FF8E55225BF0979"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1116FF068415475B9849DBE3BC4B231A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED6.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1488C0484CFD48FDA21E49DE36AF3CFB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\STRATEGO_BOARD_OUTLINE.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1A1EC27E66824C96B78F081E2757F257"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE9.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1D5863AF404D4B3A909E12A90536BC63"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE3.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1D8CFA8BC5E4477D8AED0D547001D7FC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE2.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2D664B5FB04C41BD98A0AEEA3F65C00A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED5.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2F75A74A9D514034B5263C8A0DF1C7BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE5.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3581FB740CCA48C3B78E61C7299822FA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\STRATEGO_BOARD.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_42E09BEA61DB427181C7C31ACA0D8984"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\MESSAGEBACKGROUND.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_44379CD83A0E4248B6092367F5DE29D5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUEBOMB.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_573E87EE644243D09A3C2CE5EE37D0FD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUEFLAG.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_639E14B1565A431199E409B9EA7D95B7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED1.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_64BA3349325547FF8FD92BE20BF2FC1B"
+        "OwnerKey" = "8:_B150B6B708EC44819B5702B4EA04FA2A"
+        "MsmSig" = "8:VC_User_MFC.BA9B6D6E_0DE0_11D5_A548_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_69F85A09C468465FB771093BD66A4118"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE1.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6F9017F4DCD34BDBBCE6443D466C21EB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE6.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7336805E6DE64AB09C3AA1D8D358E559"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUESPY.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_76A2717F080A4851987A33B29D794B5A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED7.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_79D26A26279C44B9B53A89DFDFA19BAC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE4.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7C993538806A5AF7BD0630403A597977"
+        "OwnerKey" = "8:_0AFEC63F725A5CDC4FF8E55225BF0979"
+        "MsmSig" = "8:interop.strategocontrollibc:\\source code\\my projects\\stratego\\stratego.net\\obj\\interop.strategocontrollib.dll"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7C993538806A5AF7BD0630403A597977"
+        "OwnerKey" = "8:_F5C19F12F2A44EADB648816484BA13BC"
+        "MsmSig" = "8:interop.strategocontrollibc:\\source code\\my projects\\stratego\\stratego.net\\obj\\interop.strategocontrollib.dll"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_803A4C2F1C2F4C2DBC5BF77A6011368D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED3.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8506F5C6A20C4F5FB559A29DF1DEB8F8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\REDBOMB.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8ADE6F43212B459E8BB516EB9D8C1C65"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED4.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8BA10C80DDC242F2BCF12F2376FE22A6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\PIECES.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8E0271D3743D4EECB927AEEA8E421B7F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED9.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8F9849F4319681660692460201A4F149"
+        "OwnerKey" = "8:_7C993538806A5AF7BD0630403A597977"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGOCONTROL\\RELEASE\\STRATEGOCONTROL.OCX"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A3D4507726984546853777B099C20AA2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE8.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A3D7C3E7759249ECB7CE06405E86DA48"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\STRATEGO_BOARD_LIGHT.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A68956FC9012403C8DF9300389D2F007"
+        "OwnerKey" = "8:_B150B6B708EC44819B5702B4EA04FA2A"
+        "MsmSig" = "8:VC_User_CRT.BA9B6D09_0DE0_11D5_A548_0090278A1BB8"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B0E94D6A73884913AF430F49B007ACFA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\SETUP.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B150B6B708EC44819B5702B4EA04FA2A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGOCONTROL\\DEBUG\\STRATEGOCONTROL.OCX"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B2756E52B8F24CB3B5131C5BE429D153"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\REDSPY.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B2EFA9A573F74D5B86B26F12A2A4114F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED8.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CAFB75902CD54158A9E3E9EBBCD424F5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\REDFLAG.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CEB2D8AF69D3406B99D9502772AE4461"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\RED2.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D01187CFDF344A84AC874B6F111793E5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\STARTEGO_MAN_MASK_SMALL.BMP"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DB1858B7751A41528A40047C99E6B4C1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\REDUNKNOWN.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F51FC7E877C9468D8DCB280BC43891AD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUE7.JPG"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F5C19F12F2A44EADB648816484BA13BC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:strategonetc:\\source code\\my projects\\stratego\\stratego.net\\obj\\debug\\strategonet.exe"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FA893F05B6C14A52AACF0D6CDA8247AD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\SOURCE CODE\\MY PROJECTS\\STRATEGO\\STRATEGO.NET\\BIN\\IMAGES\\BLUEUNKNOWN.JPG"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\StrategoInstaller.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\StrategoInstaller.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+        }
+    }
+    "Deployable"
+    {
+        "CustomAction"
+        {
+        }
+        "DefaultFeature"
+        {
+        "Name" = "8:DefaultFeature"
+        "Title" = "8:"
+        "Description" = "8:"
+        }
+        "Feature"
+        {
+        }
+        "File"
+        {
+            "{C7BF5952-4B9D-11D3-8E24-00C04F6837D0}:_0AFEC63F725A5CDC4FF8E55225BF0979"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:AxInterop.StrategoControlLib, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_0AFEC63F725A5CDC4FF8E55225BF0979"
+                    {
+                    "Name" = "8:AxInterop.StrategoControlLib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:AxInterop.StrategoControlLib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1116FF068415475B9849DBE3BC4B231A"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red6.jpg"
+            "TargetName" = "8:red6.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1488C0484CFD48FDA21E49DE36AF3CFB"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\stratego_board_outline.JPG"
+            "TargetName" = "8:stratego_board_outline.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1A1EC27E66824C96B78F081E2757F257"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue9.jpg"
+            "TargetName" = "8:blue9.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1D5863AF404D4B3A909E12A90536BC63"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue3.jpg"
+            "TargetName" = "8:blue3.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_1D8CFA8BC5E4477D8AED0D547001D7FC"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue2.jpg"
+            "TargetName" = "8:blue2.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_2D664B5FB04C41BD98A0AEEA3F65C00A"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red5.jpg"
+            "TargetName" = "8:red5.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_2F75A74A9D514034B5263C8A0DF1C7BF"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue5.jpg"
+            "TargetName" = "8:blue5.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_3581FB740CCA48C3B78E61C7299822FA"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\stratego_board.JPG"
+            "TargetName" = "8:stratego_board.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_42E09BEA61DB427181C7C31ACA0D8984"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\messagebackground.JPG"
+            "TargetName" = "8:messagebackground.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_44379CD83A0E4248B6092367F5DE29D5"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\bluebomb.jpg"
+            "TargetName" = "8:bluebomb.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_573E87EE644243D09A3C2CE5EE37D0FD"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blueflag.jpg"
+            "TargetName" = "8:blueflag.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_639E14B1565A431199E409B9EA7D95B7"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red1.jpg"
+            "TargetName" = "8:red1.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_69F85A09C468465FB771093BD66A4118"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue1.JPG"
+            "TargetName" = "8:blue1.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_6F9017F4DCD34BDBBCE6443D466C21EB"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue6.jpg"
+            "TargetName" = "8:blue6.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_7336805E6DE64AB09C3AA1D8D358E559"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\bluespy.jpg"
+            "TargetName" = "8:bluespy.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_76A2717F080A4851987A33B29D794B5A"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red7.jpg"
+            "TargetName" = "8:red7.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_79D26A26279C44B9B53A89DFDFA19BAC"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue4.jpg"
+            "TargetName" = "8:blue4.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{C7BF5952-4B9D-11D3-8E24-00C04F6837D0}:_7C993538806A5AF7BD0630403A597977"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Interop.StrategoControlLib, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_7C993538806A5AF7BD0630403A597977"
+                    {
+                    "Name" = "8:Interop.StrategoControlLib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Interop.StrategoControlLib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_803A4C2F1C2F4C2DBC5BF77A6011368D"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red3.jpg"
+            "TargetName" = "8:red3.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8506F5C6A20C4F5FB559A29DF1DEB8F8"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\redbomb.jpg"
+            "TargetName" = "8:redbomb.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8ADE6F43212B459E8BB516EB9D8C1C65"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red4.jpg"
+            "TargetName" = "8:red4.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8BA10C80DDC242F2BCF12F2376FE22A6"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\pieces.jpg"
+            "TargetName" = "8:pieces.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8E0271D3743D4EECB927AEEA8E421B7F"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red9.jpg"
+            "TargetName" = "8:red9.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_8F9849F4319681660692460201A4F149"
+            {
+            "Signature" = "8:200000000a98c3b8fbedc30104f1d5d4b9f9c301983335dfacf8c3010000000000300100000000000000000053007400720061007400650067006f0043006f006e00740072006f006c002e006f006300780000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005300540052004100540045007e0031002e004f004300580000000000"
+            "SourcePath" = "8:StrategoControl.ocx"
+            "TargetName" = "8:StrategoControl.ocx"
+            "Tag" = "8:"
+            "Folder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:2"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_A3D4507726984546853777B099C20AA2"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue8.jpg"
+            "TargetName" = "8:blue8.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_A3D7C3E7759249ECB7CE06405E86DA48"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\stratego_board_light.JPG"
+            "TargetName" = "8:stratego_board_light.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_B0E94D6A73884913AF430F49B007ACFA"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\setup.JPG"
+            "TargetName" = "8:setup.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_B2756E52B8F24CB3B5131C5BE429D153"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\redspy.jpg"
+            "TargetName" = "8:redspy.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_B2EFA9A573F74D5B86B26F12A2A4114F"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red8.jpg"
+            "TargetName" = "8:red8.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_CAFB75902CD54158A9E3E9EBBCD424F5"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\redflag.jpg"
+            "TargetName" = "8:redflag.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_CEB2D8AF69D3406B99D9502772AE4461"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\red2.jpg"
+            "TargetName" = "8:red2.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_D01187CFDF344A84AC874B6F111793E5"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\startego_man_mask_small.bmp"
+            "TargetName" = "8:startego_man_mask_small.bmp"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_DB1858B7751A41528A40047C99E6B4C1"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\redunknown.JPG"
+            "TargetName" = "8:redunknown.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_F51FC7E877C9468D8DCB280BC43891AD"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blue7.jpg"
+            "TargetName" = "8:blue7.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_FA893F05B6C14A52AACF0D6CDA8247AD"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\bin\\images\\blueunknown.JPG"
+            "TargetName" = "8:blueunknown.JPG"
+            "Tag" = "8:"
+            "Folder" = "8:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "FileType"
+        {
+        }
+        "Folder"
+        {
+            "{EE62640D-12F2-11D3-8D6C-00A0C9CFCEE6}:_0D1C824F26AF4785BB35424D416AAA82"
+            {
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "Name" = "8:#1925"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:TARGETDIR"
+                "Folders"
+                {
+                    "{461E96AF-1495-11D3-8D6C-00A0C9CFCEE6}:_A940AEB04F5A4F0E9087E7E8D6F0258B"
+                    {
+                    "Name" = "8:images"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_C4D5882183DB416EB4F8076A074DDFDB"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+            "{777C097F-0ED8-11D3-8D6C-00A0C9CFCEE6}:_187DDB53226E41ACA47447CABB5D2CD5"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                }
+            }
+            "{777C097F-0ED8-11D3-8D6C-00A0C9CFCEE6}:_9EEF8F21322642238C954F767759F0D1"
+            {
+            "Name" = "8:#1916"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:DesktopFolder"
+                "Folders"
+                {
+                }
+            }
+        }
+        "LaunchCondition"
+        {
+            "{B26CFB94-18E3-45BF-8D42-933BDAF5E76C}:_B73B7EBAD9F148C9921BE5117644B4F7"
+            {
+            "Name" = "8:MsiNetAssemblySupport"
+            "Condition" = "8:MsiNetAssemblySupport"
+            "Message" = "8:[VSDNETMSG]"
+            }
+        }
+        "Locator"
+        {
+        }
+        "Shortcut"
+        {
+            "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_BF69D4E1E26842498DC08282DFA63518"
+            {
+            "Name" = "8:Stratego.NET"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_F5C19F12F2A44EADB648816484BA13BC"
+            "Folder" = "8:_9EEF8F21322642238C954F767759F0D1"
+            "WorkingFolder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+        }
+        "Sequences"
+        {
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_9B85812326634AED95AA7FF0F7CF4228"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_291EEF3E7A2145BEB0785FF88CEF2750"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                    "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_A6E24BAAFF7245CDAB01C4D0B48D9C80"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{7DF0CD0A-FF27-11D2-8D6B-00A0C9CFCEE6}:_9057764D6B694300A605D733E6D8213C"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "ProjectOutput"
+        {
+            "{B1E2BB22-187D-11D3-8E02-00C04F6837D0}:_B150B6B708EC44819B5702B4EA04FA2A"
+            {
+            "SourcePath" = "8:..\\StrategoControl\\Debug\\StrategoControl.ocx"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:2"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectCanonicalName" = "8:..\\StrategoControl\\StrategoControl.vcproj"
+            "OutputProjectGuid" = "8:{E662FF39-E45F-40EA-A66C-467CEAD24C5E}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{B1E2BB22-187D-11D3-8E02-00C04F6837D0}:_F5C19F12F2A44EADB648816484BA13BC"
+            {
+            "SourcePath" = "8:..\\Stratego.NET\\obj\\Debug\\StrategoNET.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0D1C824F26AF4785BB35424D416AAA82"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectCanonicalName" = "8:Stratego.NET.vbproj"
+            "OutputProjectGuid" = "8:{34F952E7-BA96-4CF5-921D-B2E7DE771B15}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:StrategoNET"
+        "ProductCode" = "8:{D84E9900-45AA-4C28-A6D0-C0FA98E6AF33}"
+        "PackageCode" = "8:{0DC8982D-EED5-4CEF-88AE-922D0FCE2444}"
+        "UpgradeCode" = "8:{23D24FD6-810B-43A6-ABA6-FABC8D84B31F}"
+        "RestartWWWService" = "11:FALSE"
+        "RemovePreviousVersions" = "11:FALSE"
+        "DetectNewerInstalledVersion" = "11:TRUE"
+        "ProductVersion" = "8:1.0.0"
+        "Manufacturer" = "8:Mark's Games"
+        "ARPHELPTELEPHONE" = "8:"
+        "ARPHELPLINK" = "8:"
+        "Title" = "8:Stratego Setup"
+        "Subject" = "8:"
+        "ARPCONTACT" = "8:Mark Salisbury"
+        "Keywords" = "8:Stratego Board Game"
+        "ARPCOMMENTS" = "8:"
+        "ARPURLINFOABOUT" = "8:"
+        "ARPPRODUCTICON" = "8:"
+        "ARPIconIndex" = "3:0"
+        "SearchPath" = "8:"
+        "UseSystemSearchPath" = "11:TRUE"
+        }
+        "MsiBootstrapper"
+        {
+        "LangId" = "3:1033"
+        }
+        "MergeModule"
+        {
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_1101473EE93447F29FFA851171C021F7"
+            {
+            "UseDynamicProperties" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "SourcePath" = "8:dotnetfxredist_x86_enu.msm"
+            "ModuleSignature" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+                "Properties"
+                {
+                }
+            "LanguageId" = "3:1033"
+            "Exclude" = "11:TRUE"
+            "Folder" = "8:"
+            "Feature" = "8:"
+            "IsolateTo" = "8:"
+            }
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_64BA3349325547FF8FD92BE20BF2FC1B"
+            {
+            "UseDynamicProperties" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "SourcePath" = "8:vc_mfc.msm"
+            "ModuleSignature" = "8:VC_User_MFC.BA9B6D6E_0DE0_11D5_A548_0090278A1BB8"
+                "Properties"
+                {
+                    "DIR_RETARGET_TARGETDIR"
+                    {
+                    "Name" = "8:DIR_RETARGET_TARGETDIR"
+                    "DisplayName" = "8:Module Retargetable Folder"
+                    "Description" = "8:"
+                    "Type" = "3:10"
+                    "ContextData" = "8:IsolationDir"
+                    "Attributes" = "3:6"
+                    "Setting" = "3:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                }
+            "LanguageId" = "3:0"
+            "Exclude" = "11:FALSE"
+            "Folder" = "8:"
+            "Feature" = "8:"
+            "IsolateTo" = "8:"
+            }
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_A68956FC9012403C8DF9300389D2F007"
+            {
+            "UseDynamicProperties" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "SourcePath" = "8:vc_crt.msm"
+            "ModuleSignature" = "8:VC_User_CRT.BA9B6D09_0DE0_11D5_A548_0090278A1BB8"
+                "Properties"
+                {
+                    "DIR_RETARGET_TARGETDIR"
+                    {
+                    "Name" = "8:DIR_RETARGET_TARGETDIR"
+                    "DisplayName" = "8:Module Retargetable Folder"
+                    "Description" = "8:"
+                    "Type" = "3:10"
+                    "ContextData" = "8:IsolationDir"
+                    "Attributes" = "3:6"
+                    "Setting" = "3:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                }
+            "LanguageId" = "3:0"
+            "Exclude" = "11:FALSE"
+            "Folder" = "8:"
+            "Feature" = "8:"
+            "IsolateTo" = "8:"
+            }
+        }
+        "UserInterface"
+        {
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_181B3582A3AD4384BC9DB67083EDD8F6"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:1"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_47513F6007024ADF9EC84523CFB3D2CA"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.C113BC36_2532_4D45_8099_4818B1133B2F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_C9417B00EF2547A38802D627AC3471B3"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.6DBC9783_3677_4D68_8BF5_D749558A0AC1"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_F94BA0C676D84467AD45BBB52B296895"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.68F69290_BB7C_474E_A153_6679845F3DDF"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{E4ECAB26-4AB7-11D3-8D78-00A0C9CFCEE6}:_2A0EC8D4A31C47469C7C5C9610CBCB94"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
+            "ModuleSignature" = "8:VsdDialogs.CE4B864F_F1C1_4B85_98D4_2A2BF5FFB12B"
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_47FA88CE2CB24F30BFF6F382CBEFE744"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_2A02D29E07AF4C35925B74962605B562"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.83D22742_1B79_46f6_9A99_DF0F2BD4C077"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{E4ECAB26-4AB7-11D3-8D78-00A0C9CFCEE6}:_565723CA38304988822E0913C91AD114"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            "ModuleSignature" = "8:VsdUserInterface.524F4245_5254_5341_4C45_534153783400"
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_6A08F4D9C37A40149C3972CE806B4631"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:1"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_2DE28B8EA38B49A2BE952B531C95B7EA"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.4FB12620_0D15_42D0_8677_2766FFA6923F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_99029A95587A462D8920FA7186EF5F38"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:1"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_5317D19CB59949C3A18DF1387C103D99"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.1DB77F5A_BA5C_4470_89B6_0B0EC07E3A10"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_D836D63F1CED423984C9BF131D987F28"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:2"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_4029A55BEC4241CA9BB523794C453D48"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.E35A0E2C_F131_4B57_B946_59A1A2A8F45F"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_6FC88ACA8E6A493CA631A49F607A0257"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.FA58E60A_A1E8_4876_95FC_2AC3B5AAA5F8"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_9A698E76EAE34D129A9EB0301AE83858"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.2DED2424_5429_4616_A1AD_4D62837C2ADA"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{7DFFC192-4ABE-11D3-8D78-00A0C9CFCEE6}:_E11D7A14533E4449B4A4EB9D01165C5D"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:2"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{E4ECAB24-4AB7-11D3-8D78-00A0C9CFCEE6}:_F1188955741F47EB86CC735B7B042262"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
+                    "ModuleSignature" = "8:VsdDialogs.EE9A1AFA_41DD_4514_B727_DF0ACA1D7389"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

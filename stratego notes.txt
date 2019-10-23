@@ -1,0 +1,22 @@
+Rules Variations
+
+
+Enemy Visibility
+  Show All Pieces - All pieces are visible from the beginning of the game   < FALSE >
+  Show Known Pieces - Pieces that win a battle remain visible throughout the game < FALSE >
+ 
+Tournament Rules 
+Agressor Advantadge - When pieces of the same rank battle, the attacking piece wins  < FALSE >
+Silent Defense - Defender does not reveal rank of piece during battle.  The defender removes the lower ranking piece.  Exception: when a Scout strikes, the defender reveals the rank of their piece < FALSE >
+Rescue - When you move onto a square in your opponents back row you may rescue one of your captured pieces.  Restrictions: Scouts cannot make a rescue.  You may not rescue a bomb.  Each player may make only two rescues.  One piece cannot make both rescues.   
+
+m_MyID ... m_CurrentID  1,2
+
+PlayerData  (1,2)
+
+Type = Human, Remote
+Color = Blue, Red
+
+SetPlayer, SetState
+
+SetPlayerAndState
